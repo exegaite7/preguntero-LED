@@ -29,6 +29,7 @@
   ],
   "img": [],
   "id": "qbf85530e",
+  "mate": true,
   "veces": 6,
   "p02": true,
   "cuest": false
@@ -62,6 +63,7 @@
   ],
   "img": [],
   "id": "qf2f457d4",
+  "mate": false,
   "veces": 2,
   "p02": true,
   "cuest": false
@@ -95,6 +97,7 @@
   ],
   "img": [],
   "id": "q81f24abe",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -123,11 +126,13 @@
   "fuente": "apunte",
   "explicacion": "Dominio = primeras componentes que aparecen. En U son x, v y z; en S solo 1 y 4. Error típico: poner la imagen (segundas componentes).",
   "origen": [
-   "Parcial 2 CC-2025 · 9:00 (intento C)"
+   "Parcial 2 CC-2025 · 9:00 (intento C)",
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
   ],
   "img": [],
   "id": "qcbb5e304",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": false
  },
@@ -159,6 +164,7 @@
   ],
   "img": [],
   "id": "q8d905119",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -187,11 +193,13 @@
   "fuente": "oficial",
   "explicacion": "Alcance = conjunto de partida completo: S y U parten de C, R y T parten de A.",
   "origen": [
-   "Parcial 2 · 01/07/2023"
+   "Parcial 2 · 01/07/2023",
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
   ],
   "img": [],
   "id": "qe16b3a1e",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": false
  },
@@ -222,6 +230,7 @@
   ],
   "img": [],
   "id": "q44856198",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -254,6 +263,7 @@
   ],
   "img": [],
   "id": "q3e9bb245",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -286,6 +296,7 @@
   ],
   "img": [],
   "id": "qd64b6b47",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -316,6 +327,7 @@
   ],
   "img": [],
   "id": "qddb43e80",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -352,6 +364,7 @@
   ],
   "img": [],
   "id": "q354cc77b",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -382,6 +395,7 @@
   ],
   "img": [],
   "id": "qed5ae29c",
+  "mate": false,
   "veces": 1,
   "p02": true,
   "cuest": false
@@ -413,6 +427,7 @@
   ],
   "img": [],
   "id": "q931f23f2",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -445,6 +460,7 @@
   ],
   "img": [],
   "id": "q6fe70ff9",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -471,6 +487,7 @@
    "fg_diagrama.png"
   ],
   "id": "qb24f783f",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -499,6 +516,7 @@
    "fg_diagrama.png"
   ],
   "id": "q873d3493",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -527,6 +545,7 @@
   ],
   "img": [],
   "id": "qccca9392",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -555,6 +574,7 @@
   ],
   "img": [],
   "id": "q3f63b731",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -583,6 +603,7 @@
   ],
   "img": [],
   "id": "q959a41f2",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -611,6 +632,7 @@
   ],
   "img": [],
   "id": "q6ad386b8",
+  "mate": false,
   "veces": 1,
   "p02": true,
   "cuest": false
@@ -639,6 +661,7 @@
   ],
   "img": [],
   "id": "q6f106e08",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -668,6 +691,7 @@
   ],
   "img": [],
   "id": "q6b8d7949",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -698,6 +722,7 @@
   ],
   "img": [],
   "id": "q43c1bf40",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -729,6 +754,7 @@
   ],
   "img": [],
   "id": "qb304dc2c",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -756,6 +782,7 @@
   ],
   "img": [],
   "id": "q300c5e82",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -782,6 +809,7 @@
   ],
   "img": [],
   "id": "q3c3a505e",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -809,6 +837,7 @@
   ],
   "img": [],
   "id": "qee11c2c4",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -838,6 +867,7 @@
   ],
   "img": [],
   "id": "qe1a685c9",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -867,6 +897,7 @@
   ],
   "img": [],
   "id": "q0bf419ae",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -894,6 +925,7 @@
   ],
   "img": [],
   "id": "q8684f629",
+  "mate": true,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -931,6 +963,7 @@
   ],
   "img": [],
   "id": "qe3d19911",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -966,6 +999,7 @@
   ],
   "img": [],
   "id": "qb82a8798",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -1002,6 +1036,7 @@
   ],
   "img": [],
   "id": "qfc0e68b5",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1044,6 +1079,7 @@
    "funciones_fghi.png"
   ],
   "id": "q2126e044",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1083,6 +1119,7 @@
   ],
   "img": [],
   "id": "q48dd732a",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1122,6 +1159,7 @@
   ],
   "img": [],
   "id": "q92cba6fd",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -1158,6 +1196,7 @@
   ],
   "img": [],
   "id": "qb5b34af1",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1186,6 +1225,7 @@
   ],
   "img": [],
   "id": "qe6cdf1f7",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -1214,6 +1254,7 @@
   ],
   "img": [],
   "id": "q8abd1726",
+  "mate": true,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -1242,6 +1283,7 @@
   ],
   "img": [],
   "id": "qc1c24597",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1268,6 +1310,7 @@
   ],
   "img": [],
   "id": "q0595c554",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1294,6 +1337,7 @@
   ],
   "img": [],
   "id": "q252681f3",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1328,6 +1372,7 @@
   ],
   "img": [],
   "id": "q7ae1405f",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -1367,6 +1412,7 @@
    "tabla_orden_parcial.png"
   ],
   "id": "qc5ec90e0",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -1392,6 +1438,7 @@
   ],
   "img": [],
   "id": "qdaffa60d",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -1417,6 +1464,7 @@
   ],
   "img": [],
   "id": "q0be6bb45",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -1442,6 +1490,7 @@
   ],
   "img": [],
   "id": "q21caf4c5",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -1469,6 +1518,7 @@
   ],
   "img": [],
   "id": "q106a154a",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -1491,6 +1541,7 @@
   ],
   "img": [],
   "id": "q2bf11570",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -1509,11 +1560,13 @@
   "fuente": "oficial",
   "explicacion": "La relación inversa siempre existe, pero es FUNCIÓN solo si f es biyectiva.",
   "origen": [
-   "Cuestionario U5 · Relaciones y Funciones"
+   "Cuestionario U5 · Relaciones y Funciones",
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
   ],
   "img": [],
   "id": "q38936235",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": true
  },
@@ -1541,6 +1594,7 @@
   ],
   "img": [],
   "id": "q31089b99",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1563,6 +1617,7 @@
   ],
   "img": [],
   "id": "q1e0ab13a",
+  "mate": false,
   "veces": 1,
   "p02": true,
   "cuest": false
@@ -1632,6 +1687,7 @@
    "arbol_p02.png"
   ],
   "id": "q80a4c4ed",
+  "mate": false,
   "veces": 1,
   "p02": true,
   "cuest": false
@@ -1693,13 +1749,15 @@
   "explicacion": "Profundidad: a, rama b completa (b c x y z d) y después rama e (e f g p q s r). Anchura por niveles: a | b e | c d f | x g p r | y z q s.",
   "origen": [
    "Parcial 2 · 22/06/2024",
-   "Parcial 2 · 18/11/2023"
+   "Parcial 2 · 18/11/2023",
+   "Cuestionario U6 · Árboles (Mate)"
   ],
   "img": [
    "arbol_2024.png"
   ],
   "id": "qdb473798",
-  "veces": 2,
+  "mate": true,
+  "veces": 3,
   "p02": false,
   "cuest": false
  },
@@ -1759,6 +1817,7 @@
    "arbol_1a12.png"
   ],
   "id": "q6cf8c136",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1791,6 +1850,7 @@
   ],
   "img": [],
   "id": "q0cdff9a5",
+  "mate": true,
   "veces": 5,
   "p02": false,
   "cuest": false
@@ -1825,6 +1885,7 @@
   ],
   "img": [],
   "id": "q3a314079",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -1854,6 +1915,7 @@
   ],
   "img": [],
   "id": "qe38656a8",
+  "mate": false,
   "veces": 2,
   "p02": true,
   "cuest": false
@@ -1894,6 +1956,7 @@
    "grafo8_p02.png"
   ],
   "id": "q1f191fa3",
+  "mate": false,
   "veces": 2,
   "p02": true,
   "cuest": false
@@ -1925,6 +1988,7 @@
   ],
   "img": [],
   "id": "q06326def",
+  "mate": false,
   "veces": 1,
   "p02": true,
   "cuest": false
@@ -1955,6 +2019,7 @@
   ],
   "img": [],
   "id": "q615382dc",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -1985,6 +2050,7 @@
   ],
   "img": [],
   "id": "q0942c142",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2025,6 +2091,7 @@
    "G_Gprima_rect.png"
   ],
   "id": "q45ef3468",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -2063,6 +2130,7 @@
    "G_G2_rect.png"
   ],
   "id": "q7b2810d3",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2102,6 +2170,7 @@
    "digrafo_G_G2.png"
   ],
   "id": "qcc86c688",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -2140,6 +2209,7 @@
    "digrafo_G_Gprima.png"
   ],
   "id": "q8a17d3c6",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -2178,6 +2248,7 @@
    "multigrafo_G_G2.png"
   ],
   "id": "qc252cbf9",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -2216,6 +2287,7 @@
    "multigrafo_G_Gprima.png"
   ],
   "id": "q9ec77bef",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2253,6 +2325,7 @@
    "multigrafo_G.png"
   ],
   "id": "qe8a8f1e2",
+  "mate": true,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -2281,6 +2354,7 @@
    "grafo_2componentes.png"
   ],
   "id": "q41fb122f",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -2311,6 +2385,7 @@
   ],
   "img": [],
   "id": "q21396e90",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -2342,6 +2417,7 @@
   ],
   "img": [],
   "id": "qc3026321",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2373,6 +2449,7 @@
   ],
   "img": [],
   "id": "qe31303bd",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2405,6 +2482,7 @@
   ],
   "img": [],
   "id": "qc15387d9",
+  "mate": true,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -2431,6 +2509,7 @@
   ],
   "img": [],
   "id": "q4ad34ebc",
+  "mate": true,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -2468,6 +2547,7 @@
    "ponderado6_opciones.png"
   ],
   "id": "q96b0026f",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2505,6 +2585,7 @@
    "ponderado8_opcionesABC.png"
   ],
   "id": "qd6cabbca",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -2546,6 +2627,7 @@
    "ponderado8_AF.png"
   ],
   "id": "q789b818f",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2584,6 +2666,7 @@
    "grafos_ABC.png"
   ],
   "id": "qb54da67b",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2614,6 +2697,7 @@
   ],
   "img": [],
   "id": "q436e7198",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2646,6 +2730,7 @@
   ],
   "img": [],
   "id": "q661cb01d",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -2688,6 +2773,7 @@
    "arbol_AI.png"
   ],
   "id": "qd4f4e98f",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -2713,11 +2799,13 @@
   "explicacion": "Si cada padre tiene exactamente 2 hijos, en el nivel n hay 2^n nodos: es un árbol binario (m-ario con m = 2) completo.",
   "origen": [
    "Parcial 2 · 28/06/2025 (10:00)",
-   "Parcial 2 · 01/07/2023"
+   "Parcial 2 · 01/07/2023",
+   "Cuestionario U6 · Árboles (Mate)"
   ],
   "img": [],
   "id": "qb60c287e",
-  "veces": 2,
+  "mate": true,
+  "veces": 3,
   "p02": false,
   "cuest": false
  },
@@ -2758,6 +2846,7 @@
    "arbol_amn.png"
   ],
   "id": "qda61c688",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2794,13 +2883,15 @@
   "explicacion": "La cátedra cuenta los internos SIN la raíz: b, c, x, e, f, p = 6. m = máximo de hijos de un nodo = 3 (f tiene g, p, r). Descendientes de f: todo lo que cuelga, incluidos q y s. Caminos de longitud 4 desde a: hasta y, z, q y s = 4.",
   "origen": [
    "Cuestionario U6 · Árboles",
-   "Parcial 2 CC-2025 · 9:00 (intento D)"
+   "Parcial 2 CC-2025 · 9:00 (intento D)",
+   "Cuestionario U6 · Árboles (Mate)"
   ],
   "img": [
    "arbol_2024.png"
   ],
   "id": "qd5682f87",
-  "veces": 2,
+  "mate": true,
+  "veces": 3,
   "p02": false,
   "cuest": false
  },
@@ -2828,6 +2919,7 @@
   ],
   "img": [],
   "id": "q0deae79d",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -2857,6 +2949,7 @@
    "arbol_expresion1.png"
   ],
   "id": "q2801b523",
+  "mate": true,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -2884,6 +2977,7 @@
    "arbol_expresion2.png"
   ],
   "id": "qd5c9641c",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2911,6 +3005,7 @@
    "arbol_sintaxis.png"
   ],
   "id": "qa2bbca0b",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -2938,6 +3033,7 @@
    "recorrido_flechas.png"
   ],
   "id": "qfd1d4f47",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -2965,6 +3061,7 @@
   ],
   "img": [],
   "id": "qe4d2dfa7",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -2991,6 +3088,7 @@
   ],
   "img": [],
   "id": "q57d83f69",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3026,6 +3124,7 @@
   ],
   "img": [],
   "id": "q45a6c07a",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3054,6 +3153,7 @@
   ],
   "img": [],
   "id": "q7d13a316",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3081,6 +3181,7 @@
   ],
   "img": [],
   "id": "q590df156",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3103,11 +3204,13 @@
   "fuente": "oficial",
   "explicacion": "Cada arista suma 1 al grado de cada uno de sus 2 extremos ⇒ Σ grados = 2|S|.",
   "origen": [
-   "Cuestionario U6 · Grafos"
+   "Cuestionario U6 · Grafos",
+   "Cuestionario U6 · Grafos (Mate)"
   ],
   "img": [],
   "id": "q0ab4bf78",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": true
  },
@@ -3131,6 +3234,7 @@
   ],
   "img": [],
   "id": "qeed8d61f",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3156,6 +3260,7 @@
   ],
   "img": [],
   "id": "q52037cf4",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3178,6 +3283,7 @@
   ],
   "img": [],
   "id": "qc19ba889",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3208,6 +3314,7 @@
    "grafo_C1.png"
   ],
   "id": "qc6d74503",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3238,6 +3345,7 @@
    "grafo_C1.png"
   ],
   "id": "qf12ffc49",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3259,13 +3367,15 @@
   "fuente": "oficial",
   "explicacion": "Contá las aristas que tocan cada nodo: A-X, A-Z, B-X, B-Y, C-Y, X-Y. Suma = 12 = 2 · 6 aristas.",
   "origen": [
-   "Cuestionario U6 · Grafos"
+   "Cuestionario U6 · Grafos",
+   "Cuestionario U6 · Grafos (Mate)"
   ],
   "img": [
    "grafo_XYZ.png"
   ],
   "id": "qd36ede10",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": true
  },
@@ -3291,6 +3401,7 @@
   ],
   "img": [],
   "id": "q5cd0dd52",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3318,6 +3429,7 @@
    "digrafo_CF.png"
   ],
   "id": "q4ca407d3",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3340,6 +3452,7 @@
   ],
   "img": [],
   "id": "q4b3ef676",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3362,6 +3475,7 @@
   ],
   "img": [],
   "id": "qc15b8011",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3384,6 +3498,7 @@
   ],
   "img": [],
   "id": "qc8765607",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3406,6 +3521,7 @@
   ],
   "img": [],
   "id": "q03d0685e",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3433,6 +3549,7 @@
    "digrafo_ABCD.png"
   ],
   "id": "q3c8c3cbe",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -3454,11 +3571,13 @@
   "fuente": "oficial",
   "explicacion": "Camino dirigido (no ciclo) desde la raíz a todo nodo.",
   "origen": [
-   "Cuestionario U6 · Árboles"
+   "Cuestionario U6 · Árboles",
+   "Cuestionario U6 · Árboles (Mate)"
   ],
   "img": [],
   "id": "q8a4a4959",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": true
  },
@@ -3484,6 +3603,7 @@
   ],
   "img": [],
   "id": "q3665d4cb",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3514,6 +3634,7 @@
   ],
   "img": [],
   "id": "qcf18b404",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -3541,6 +3662,7 @@
   ],
   "img": [],
   "id": "qe1509b89",
+  "mate": true,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -3568,6 +3690,7 @@
   ],
   "img": [],
   "id": "qbced9407",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3598,6 +3721,7 @@
   ],
   "img": [],
   "id": "qdb2d113e",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -3626,6 +3750,7 @@
   ],
   "img": [],
   "id": "qa93d9347",
+  "mate": false,
   "veces": 1,
   "p02": true,
   "cuest": false
@@ -3656,6 +3781,7 @@
   ],
   "img": [],
   "id": "qc98d75f9",
+  "mate": false,
   "veces": 3,
   "p02": false,
   "cuest": false
@@ -3687,6 +3813,7 @@
   ],
   "img": [],
   "id": "qff09e71a",
+  "mate": false,
   "veces": 4,
   "p02": false,
   "cuest": false
@@ -3714,6 +3841,7 @@
   ],
   "img": [],
   "id": "q89f1704c",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3746,6 +3874,7 @@
   ],
   "img": [],
   "id": "q6ae7f30c",
+  "mate": false,
   "veces": 4,
   "p02": false,
   "cuest": false
@@ -3772,6 +3901,7 @@
   ],
   "img": [],
   "id": "q0bc159b2",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3797,6 +3927,7 @@
   ],
   "img": [],
   "id": "q5b3a95d3",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3828,6 +3959,7 @@
   ],
   "img": [],
   "id": "qff771a46",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -3856,6 +3988,7 @@
   ],
   "img": [],
   "id": "q8f5436e6",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3884,6 +4017,7 @@
   ],
   "img": [],
   "id": "qb31f7b74",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3909,6 +4043,7 @@
   ],
   "img": [],
   "id": "qf23157d5",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -3938,6 +4073,7 @@
   ],
   "img": [],
   "id": "qfefba84b",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -4090,11 +4226,13 @@
   "fuente": "oficial",
   "explicacion": "Resolvé de adentro hacia afuera, columna por columna: b+c, después a.(b+c), negala, después ~c+a, b.(~c+a) y al final la suma de las dos partes.",
   "origen": [
-   "Parcial 2 · 18/11/2023"
+   "Parcial 2 · 18/11/2023",
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
   ],
   "img": [],
   "id": "q2a0f3726",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": false
  },
@@ -4260,6 +4398,7 @@
   ],
   "img": [],
   "id": "q24e1a322",
+  "mate": true,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -4296,6 +4435,7 @@
   ],
   "img": [],
   "id": "q5a4db85a",
+  "mate": false,
   "veces": 2,
   "p02": false,
   "cuest": false
@@ -4328,6 +4468,7 @@
   ],
   "img": [],
   "id": "q52e23ca7",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -4391,6 +4532,7 @@
   ],
   "img": [],
   "id": "q4e40298f",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -4422,6 +4564,7 @@
   ],
   "img": [],
   "id": "q1e5fe7d9",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -4449,6 +4592,7 @@
   ],
   "img": [],
   "id": "qa11a6392",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -4478,6 +4622,7 @@
   ],
   "img": [],
   "id": "q7245a3b2",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": false
@@ -4505,6 +4650,7 @@
   ],
   "img": [],
   "id": "q65012be0",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -4527,6 +4673,7 @@
   ],
   "img": [],
   "id": "q1a57c5dd",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -4551,11 +4698,13 @@
   "fuente": "oficial",
   "explicacion": "Hay 8 − 5 = 3 ceros. Las 4 filas con x = 0 son todas 1 ⇒ los 3 ceros están con x = 1 ⇒ todos los maxterms llevan ~x. Solo sirven las opciones donde los tres factores tienen ~x.",
   "origen": [
-   "Cuestionario U7 · Estructuras Algebraicas"
+   "Cuestionario U7 · Estructuras Algebraicas",
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
   ],
   "img": [],
   "id": "qc7ca4b75",
-  "veces": 1,
+  "mate": true,
+  "veces": 2,
   "p02": false,
   "cuest": true
  },
@@ -4584,6 +4733,7 @@
   ],
   "img": [],
   "id": "qdeb4ae38",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -4608,6 +4758,7 @@
   ],
   "img": [],
   "id": "q506abd3a",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -4632,6 +4783,7 @@
   ],
   "img": [],
   "id": "q41bb9ca6",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -4657,6 +4809,7 @@
   ],
   "img": [],
   "id": "q4fbe93ea",
+  "mate": false,
   "veces": 1,
   "p02": false,
   "cuest": true
@@ -4681,6 +4834,1465 @@
   ],
   "img": [],
   "id": "q58aa3197",
+  "mate": false,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "una",
+  "enunciado": "Dada la siguiente matriz , indicar la relación que representa:",
+  "opciones": [
+   "R= { {1,y}, {1,z}, {3,y}, {4,x}, {4,z} }",
+   "R={ (1,x), (2,x), (2,y), (2,z), (3,x), (3,z), (4,y) }",
+   "R={ (1,y), (1,z), (3,y), (4,x), (4,z) }",
+   "R={ (x,4), (y,1), (y,3), (z,1), (z,4) }",
+   "R= { (x,1), (x,2), (x,4), (y,1), ((y,3), (z,1), (z,4) }"
+  ],
+  "correctas": [
+   2
+  ],
+  "fuente": "oficial",
+  "explicacion": "Cada 1 de la matriz es un par (fila, columna): (1,y), (1,z), (3,y), (4,x), (4,z). Los pares van entre paréntesis, no entre llaves, y el orden es fila → columna (la d está invertida).",
+  "origen": [
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
+  ],
+  "img": [
+   "m_matriz_R.png"
+  ],
+  "id": "q9d60382c",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "completar",
+  "enunciado": "Sea R una relación de equivalencia definida sobre un conjunto A. Indique para cada número de afirmación en la siguiente tabla, si es verdadera o falsa esa afirmación:\n1 {{0}}   5 {{4}}   9 {{8}}\n2 {{1}}   6 {{5}}   10 {{9}}\n3 {{2}}   7 {{6}}   11 {{10}}\n4 {{3}}   8 {{7}}   12 {{11}}",
+  "banco": [
+   "V",
+   "F"
+  ],
+  "respuestas": [
+   "F",
+   "V",
+   "F",
+   "V",
+   "V",
+   "F",
+   "F",
+   "F",
+   "V",
+   "F",
+   "V",
+   "F"
+  ],
+  "reuse": true,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "Equivalencia = reflexiva (2), simétrica (9) y transitiva (11), y R ⊆ A×A (4). Además PUEDE ser antisimétrica (5: la identidad lo es), pero no siempre (6). Las demás fórmulas están mal escritas.",
+  "origen": [
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
+  ],
+  "img": [
+   "m_tabla_equivalencia.png"
+  ],
+  "id": "q8ef1bb33",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "una",
+  "enunciado": "Dada la siguiente relación F={ (e,e), (e,g), (e,h), (g,g), (f,f), (h,h) }\nSeleccione su inversa",
+  "opciones": [
+   "F-1= { (e,e), (g,e), (h,e), (g,g), (f,f), (g,h)}",
+   "F-1= { (e,e), (g,e), (h,e), (g,g), (f,f), (h,h)}",
+   "F-1= { (e,e), (g,e), (h,e), (g,g), (f,e), (h,h)}",
+   "F-1= { (e,e), (g,e), (e,h), (g,g), (f,f), (h,h)}",
+   "F-1= { (e,e), (e,g), (h,e), (g,g), (f,f), (h,h)}"
+  ],
+  "correctas": [
+   1
+  ],
+  "fuente": "oficial",
+  "explicacion": "Se da vuelta CADA par: (e,g)→(g,e), (e,h)→(h,e). Los pares de la diagonal quedan igual.",
+  "origen": [
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
+  ],
+  "img": [],
+  "id": "q393c8a6f",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "una",
+  "enunciado": "En una relación antisimétrica definida en un conjunto A, para cada par de elementos del conjunto A que forman pares de la forma (x, y) que pertenecen a la relación R, deben existir todos los pares de la forma (y, x) en R y pueden existir pares de las forma (x, x).",
+  "opciones": [
+   "Verdadero",
+   "Falso"
+  ],
+  "correctas": [
+   1
+  ],
+  "fuente": "oficial",
+  "explicacion": "Eso describe la SIMÉTRICA. En la antisimétrica, si x ≠ y y (x,y) ∈ R, entonces (y,x) NO puede estar.",
+  "origen": [
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
+  ],
+  "img": [],
+  "id": "q3f5d9946",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "una",
+  "enunciado": "Seleccione la definición correcta correspondiente a una Relación Binaria de A en B:",
+  "opciones": [
+   "Dados dos conjuntos A y B, llamaremos relación binaria de A en B, a todo subconjunto R del producto Cartesiano de A x B.",
+   "Dado dos conjuntos A y B, llamaremos relación binaria de B en A, a todo subconjunto R del producto cartesiano de A x B.",
+   "Dados dos conjuntos no vacíos A y B, llamaremos relación binaria de A en B, a todo subconjunto R del producto cartesiano de A x B.",
+   "Dado dos conjuntos no vacíos A y B, llamaremos relación de A en B, a todo subconjunto R del producto Cartesiano de B x A.",
+   "Dado dos conjuntos A y B, llamaremos relación de B en A , a todo subconjunto R del producto Cartesiano de B x A."
+  ],
+  "correctas": [
+   2
+  ],
+  "fuente": "oficial",
+  "explicacion": "La definición de la cátedra pide conjuntos NO VACÍOS y R ⊆ A × B. La a parece correcta pero le falta \"no vacíos\".",
+  "origen": [
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
+  ],
+  "img": [],
+  "id": "qdc5c6b87",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "varias",
+  "enunciado": "Indique cuáles de las siguientes proposiciones con verdaderas si f es la función identidad definida sobre un conjunto A.",
+  "opciones": [
+   "Si g es la función inversa de f entonces la composición de f con g es igual a la función identidad.",
+   "f asigna a cada elemento de A el mismo elemento",
+   "Si g es la función inversa de f entonces la composición de g con f es igual a la función identidad.",
+   "f es siempre inyectiva pero puede no ser sobreyectiva",
+   "Por ser f una función identidad, no tiene inversa sobre A."
+  ],
+  "correctas": [
+   0,
+   1,
+   2
+  ],
+  "fuente": "oficial",
+  "explicacion": "La identidad es biyectiva (inyectiva Y sobreyectiva) y es su propia inversa: f∘f-1 = f-1∘f = I.",
+  "origen": [
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
+  ],
+  "img": [],
+  "id": "q1fb9d11c",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "una",
+  "enunciado": "Dado un conj. A={3,4,5} y dos relaciones de A en A :\nR={(3,3),(3,4),(4,4),(4,3),(5,3),(5,4)}\nS={(3,4),(3,5),(4,5),(5,3)}\nT={(3,3),(3,5),(4,4),(4,5)}\nIndicar el resultado correcto de la siguiente operación (R∩T ) U S =",
+  "opciones": [
+   "(R∩T ) U S= {(3,3), (4,4), (4,5), (5,3), (5,4)}",
+   "(R∩T ) U S= {(3,3), (3,4), (3,5), (4,3), (4,4), (4,5)}",
+   "(R∩T ) U S= {(3,3), (3,4), (4,3),(5,3), (5,4)}",
+   "(R∩T ) U S= {(3,3), (3,4), (4,3), (4,4), (4,5), (5,3), (5,4)}",
+   "(R∩T ) U S= {(3,3), (3,4), (3,5), (4,4),(4,5),(5,3)}"
+  ],
+  "correctas": [
+   4
+  ],
+  "fuente": "oficial",
+  "explicacion": "R ∩ T = {(3,3),(4,4)}. Unido con S: {(3,3),(3,4),(3,5),(4,4),(4,5),(5,3)}.",
+  "origen": [
+   "Cuestionario U5 · Relaciones y Funciones (Mate)"
+  ],
+  "img": [],
+  "id": "qaa46b424",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U5",
+  "tipo": "completar",
+  "enunciado": "Siendo R y S relaciones sobre A={1,2,3,4},\nR = {(1,2),(2,2),(2,4),(3,4)}\nS = {(1,1),(2,1),(2,3),(3,2),(3,4)}\nIdentificar qué relaciones corresponden cada una de las siguientes expresiones:\nR-1 {{0}}\nS∘S {{1}}\nR∘R {{2}}\nR∘S {{3}}\nS∘R {{4}}",
+  "banco": [
+   "{(2,1),(2,2),(4,2),(4,3)}",
+   "{(1,1),(2,1),(2,2),(2,4),(3,1),(3,3)}",
+   "{(1,2),(1,4),(2,2),(2,4)}",
+   "{(1,2),(2,2),(2,4),(3,2),(3,4)}",
+   "{(1,1),(1,3),(2,1),(2,3)}"
+  ],
+  "respuestas": [
+   "{(2,1),(2,2),(4,2),(4,3)}",
+   "{(1,1),(2,1),(2,2),(2,4),(3,1),(3,3)}",
+   "{(1,2),(1,4),(2,2),(2,4)}",
+   "{(1,2),(2,2),(2,4),(3,2),(3,4)}",
+   "{(1,1),(1,3),(2,1),(2,3)}"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "R∘S = primero S y después R: 1→S→1→R→2; 2→1→2 y 2→3→4; 3→2→2 y 3→2→4, 3→4 (sin salida en R). S∘R = primero R y después S: 1→2→1 y 1→2→3; 2→2→1, 2→2→3; 2→4 y 3→4 no siguen.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [],
+  "id": "q0cced15d",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U5",
+  "tipo": "completar",
+  "enunciado": "Considerando las siguientes relaciones sobre el conjunto A = { 1, 2, 3 }\nIdentificar en cada caso si la relación es una función, si es inyectiva (uno a uno) y/o si es suryectiva (suprayectiva).\n(¿Función? · ¿Inyectiva? · ¿Suryectiva?)\nf = { (1,3), (2,3), (3,1) } {{0}} {{1}} {{2}}\ng = { (1,2), (3,1) } {{3}} {{4}} {{5}}\nh = { (1,1), (2,2), (3,3) } {{6}} {{7}} {{8}}\ni = { (1,3), (2,1), (1,2), (3,1) } {{9}} {{10}} {{11}}\nj = { (1,3), (2,2), (3,3) } {{12}} {{13}} {{14}}",
+  "banco": [
+   "SI",
+   "NO"
+  ],
+  "respuestas": [
+   "SI",
+   "NO",
+   "NO",
+   "NO",
+   "NO",
+   "NO",
+   "SI",
+   "SI",
+   "SI",
+   "NO",
+   "NO",
+   "NO",
+   "SI",
+   "NO",
+   "NO"
+  ],
+  "reuse": true,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "g: el 2 no tiene imagen ⇒ no es función. i: el 1 tiene dos imágenes ⇒ no es función. j: 1 y 3 van al 3 ⇒ no inyectiva, y el 1 no se alcanza ⇒ no suryectiva. Si no es función, la cátedra pone NO en las tres.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [],
+  "id": "q078d9cdd",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U5",
+  "tipo": "una",
+  "enunciado": "Dado un conjunto A={a, b, c} y la siguiente relación R definida sobre A :\nR={(a,a), (a,b), (a,c), (b,b), (b,a), (b,c), (c,c) ,(c,a), (c,b)}\nIndicar el resultado correcto según las propiedades de R:",
+  "opciones": [
+   "Reflexiva, Simétrica, No Antisimétrica y No Transitiva.",
+   "No Reflexiva, Simétrica, Antisimétrica y No Transitiva.",
+   "No Reflexiva, Simétrica, No Antisimétrica y Transitiva.",
+   "No Reflexiva, No Simétrica, No Antisimétrica y No Transitiva.",
+   "Reflexiva, Simétrica, No Antisimétrica y Transitiva."
+  ],
+  "correctas": [
+   4
+  ],
+  "fuente": "oficial",
+  "explicacion": "R = A × A (los 9 pares): la relación universal es reflexiva, simétrica y transitiva. Tiene ida y vuelta entre distintos ⇒ no antisimétrica.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [],
+  "id": "q79fea4cf",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "Dado el siguiente grafo determine los grados de cada nodo",
+  "opciones": [
+   "g(v1) = 2; ; g(v2) = 3; g(v3) = 2; g(v4) = 1; g(v5) = 0",
+   "g(v1) = 3; g(v2) = 3; g(v3) = 2; g(v4) = 1; g(v5) = 0",
+   "g(v1) = 3; g(v2) = 3; g(v3) = 3; g(v4) = 1; g(v5) = 0",
+   "g(v1) = 3; ; g(v2) = 3; g(v3) = 2; g(v4) = 1; g(v5) = 1"
+  ],
+  "correctas": [
+   2
+  ],
+  "fuente": "oficial",
+  "explicacion": "v3 tiene un LAZO (a2), que suma 2 al grado: 1 (a4) + 2 = 3. v5 está aislado. Control: suma = 10 = 2 · 5 aristas.",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [
+   "m_grafo_v1v5.png"
+  ],
+  "id": "qd2803031",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "completar",
+  "enunciado": "En un grafo o multigrafo dirigido, la suma de los {{0}} de entrada de todos los nodos es igual a la suma de los grados de {{1}} de todos los nodos, e igual a la cantidad de {{2}} .",
+  "banco": [
+   "grados",
+   "salida",
+   "arcos",
+   "entrada",
+   "nodos"
+  ],
+  "respuestas": [
+   "grados",
+   "salida",
+   "arcos"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "Cada arco aporta 1 de salida a un nodo y 1 de entrada a otro ⇒ Σ ge = Σ gs = |arcos|.",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [],
+  "id": "q3fdf8176",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "La longitud del camino más corto entre dos nodos A y B de un multigrafo se denomina:",
+  "opciones": [
+   "Diámetro del multigrafo",
+   "Distancia de A a B",
+   "Camino de A a B",
+   "Longitud de A a B",
+   "Sendero de A a B"
+  ],
+  "correctas": [
+   1
+  ],
+  "fuente": "oficial",
+  "explicacion": "Distancia d(A,B) = longitud (cantidad de aristas) del camino más corto.",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [],
+  "id": "qd8f6c0c1",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "Dado el siguiente grafo:\nAl suprimir los nodos a, e y g el grafo resultante es:",
+  "opciones": [
+   "Grafo disconexo",
+   "Subgrafo del grafo dado",
+   "Grafo completo",
+   "Punto de corte"
+  ],
+  "correctas": [
+   1
+  ],
+  "fuente": "oficial",
+  "explicacion": "Sacar nodos (con sus aristas) de un grafo siempre da un subgrafo. Queda conexo (b, c, d, f unidos por c) y no es completo.",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [
+   "m_grafo_ag.png",
+   "m_grafo_ag_res.png"
+  ],
+  "id": "qde730489",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "Un árbol con raíz, puede ser un dígrafo.",
+  "opciones": [
+   "Verdadero",
+   "Falso"
+  ],
+  "correctas": [
+   0
+  ],
+  "fuente": "oficial",
+  "explicacion": "Un árbol con raíz ES un árbol dirigido: las aristas van de padre a hijo.",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [],
+  "id": "q40298d7c",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "completar",
+  "enunciado": "Seleccione cuáles conceptos corresponden a las definiciones dadas.\nCamino donde todas las aristas son diferentes {{0}}\nCamino donde todos los vértices son diferentes {{1}}\nCamino cerrado donde todas las aristas son diferentes {{2}}\nCamino cerrado donde todos los vértices son diferentes excepto el primero y el último {{3}}",
+  "banco": [
+   "Sendero",
+   "Trayectoria",
+   "Circuito",
+   "Ciclo",
+   "Círculo",
+   "Recorrido"
+  ],
+  "respuestas": [
+   "Sendero",
+   "Trayectoria",
+   "Circuito",
+   "Ciclo"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "Aristas distintas = sendero (cerrado: circuito). Vértices distintos = trayectoria (cerrada: ciclo).",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [],
+  "id": "q08830e22",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "completar",
+  "enunciado": "Considerando el grafo G de la figura:\nDetermine:\nG es conexo? {{0}}   El grafo G es: {{1}}\nG es un grafo Rotulado? {{2}}   G está representado como mapa? {{3}}\nG es Completo? {{4}}   G es Plano? {{5}}\nG es un Árbol maximal? {{6}}",
+  "banco": [
+   "Grafo",
+   "Multigrafo",
+   "Digrafo",
+   "SI",
+   "NO"
+  ],
+  "respuestas": [
+   "SI",
+   "Digrafo",
+   "NO",
+   "NO",
+   "NO",
+   "SI",
+   "NO"
+  ],
+  "reuse": true,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "Las aristas tienen flecha ⇒ digrafo. Es una sola pieza ⇒ conexo. Tiene cruces dibujados ⇒ no está como mapa, pero se puede redibujar sin cruces ⇒ plano. Tiene ciclos ⇒ no es árbol.",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [
+   "m_digrafo_G.png"
+  ],
+  "id": "qec0f47f1",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "Observe la siguiente tabla e Indique cuáles son grafos completos:",
+  "opciones": [
+   "Los grafos de la fila 2",
+   "Los grafos de la fila 2 y 3",
+   "Todos los grafos son completos",
+   "Los grafos de la fila 3",
+   "Ningún grafo es completo"
+  ],
+  "correctas": [
+   2
+  ],
+  "fuente": "oficial",
+  "explicacion": "Son K1 a K12: en cada uno todos los nodos están unidos con todos. Incluso K1 (un nodo) y K2 son completos. Las cantidades son n(n−1)/2 aristas.",
+  "origen": [
+   "Cuestionario U6 · Grafos (Mate)"
+  ],
+  "img": [
+   "m_tabla_Kn.png"
+  ],
+  "id": "q84fe5e6f",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "varias",
+  "enunciado": "Dado un grafo pesado G, ¿cuáles de las siguientes condiciones deben cumplirse para que un grafo A sea un árbol maximal minimal de G?",
+  "opciones": [
+   "A debe tener menos nodos que G",
+   "A es un subgrafo de G.",
+   "A debe tener menos aristas que G para cualquier G conexo",
+   "La suma de los pesos de las aristas de A es la menor entre la suma de las aristas de todos los subgrafos pesados y conexos de G que tienen todos los nodos de G",
+   "La suma de los pesos de las aristas de A es menor que la suma de las aristas de cualquier subgrafo de G",
+   "A es un árbol.",
+   "A tiene todos los nodos de G"
+  ],
+  "correctas": [
+   1,
+   3,
+   5,
+   6
+  ],
+  "fuente": "oficial",
+  "explicacion": "Subgrafo + árbol + todos los nodos + peso mínimo entre los que tienen todos los nodos.",
+  "origen": [
+   "Cuestionario U6 · Árboles (Mate)"
+  ],
+  "img": [],
+  "id": "q8cbbc126",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "Diga si es verdadera la siguiente afirmación “A partir de un grafo simple T es posible obtener un árbol enraizado T’ con raíz en el nodo e”",
+  "opciones": [
+   "Verdadero",
+   "Falso"
+  ],
+  "correctas": [
+   0
+  ],
+  "fuente": "oficial",
+  "explicacion": "T es un árbol (conexo y sin ciclos): se puede elegir cualquier nodo como raíz, también e, y dirigir las aristas desde ahí.",
+  "origen": [
+   "Cuestionario U6 · Árboles (Mate)"
+  ],
+  "img": [
+   "m_arbol_T.png"
+  ],
+  "id": "q6f228ba5",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "Dado el grafo dirigido G de la figura:\nSeleccione la opción que expresa todas las trayectorias de A a D:",
+  "opciones": [
+   "(A-C-D), (A-D) y (A-C-B-D)",
+   "(A-B-D), (A-C-D), (A-D) y (A-C-B-D)",
+   "(A-B-D), ((A-C-D) y (A-C-B-D)",
+   "(A-B-C), (A-C-D), (A-D) y (A-C-B-D)",
+   "(A-D), (A-C-D) y (A-C-B-D)"
+  ],
+  "correctas": [
+   1
+  ],
+  "fuente": "oficial",
+  "explicacion": "Siguiendo las flechas y sin repetir nodos: A→B→D, A→C→D, A→D y A→C→B→D.",
+  "origen": [
+   "Cuestionario U6 · Árboles (Mate)"
+  ],
+  "img": [
+   "m_digrafo_AD.png"
+  ],
+  "id": "qfb12634f",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "varias",
+  "enunciado": "Sea un grafo 3-ario completo de altura igual a 3 y donde cada nodo interno tiene exactamente 3 hijos. Indique cuales de las siguientes afirmaciones son verdaderas:",
+  "opciones": [
+   "El árbol podría representar una estructura de archivos donde cada carpeta o directorio tiene exactamente 3 subcarpetas o subdirectorios.",
+   "El árbol puede representar el producto cartesiano de tres conjuntos siendo tres la cardinalidad de cada uno.",
+   "Puede representar la cantidad de permutaciones de 3 objetos",
+   "Si el árbol tuviera cuatro niveles y mantuviese las mismas características, entonces la cantidad de nodos del cuarto nivel sería 81",
+   "La cantidad de nodos en cada nivel se podría calcular con una formula recursiva, donde el valor o condición inicial igual a 1.",
+   "Puede representar la cantidad de combinaciones de 3 objetos"
+  ],
+  "correctas": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "fuente": "oficial",
+  "explicacion": "En el nivel n hay 3ⁿ nodos (a0 = 1, an = 3·an−1): 3³ = 27 hojas = |A×B×C| con 3 elementos cada uno. En el nivel 4 hay 3⁴ = 81. Las permutaciones de 3 objetos no repiten (3! = 6), así que no encajan.",
+  "origen": [
+   "Cuestionario U6 · Árboles (Mate)"
+  ],
+  "img": [],
+  "id": "qf18598e3",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "completar",
+  "enunciado": "Se denomina {{0}} de un árbol, al valor del nivel o profundidad máximo del mismo.",
+  "banco": null,
+  "respuestas": [
+   "altura"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": true,
+  "fuente": "oficial",
+  "explicacion": "Altura = nivel máximo. Nivel o profundidad = distancia de un nodo a la raíz.",
+  "origen": [
+   "Cuestionario U6 · Árboles (Mate)"
+  ],
+  "img": [],
+  "id": "q3648a1b4",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "una",
+  "enunciado": "Dado el grafo dirigido G de la figura:\nSeleccione la opción que expresa la Matriz correspondiente a G:",
+  "opciones": [
+   "img:m_mat_a.png",
+   "img:m_mat_b.png",
+   "img:m_mat_c.png",
+   "img:m_mat_d.png"
+  ],
+  "correctas": [
+   1
+  ],
+  "fuente": "oficial",
+  "explicacion": "Fila = origen, columna = destino: A→B, A→C, B→C, C→A, C→D, D→B. Va 0 donde no hay arco (la a deja celdas vacías).",
+  "origen": [
+   "Cuestionario U6 · Árboles (Mate)"
+  ],
+  "img": [
+   "m_digrafo_mat.png"
+  ],
+  "id": "qff831287",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U6",
+  "tipo": "completar",
+  "enunciado": "Representar la siguiente expresión algebraica en un árbol binario. {{img:m_expr_r2p.png}}\n(cada nivel de izquierda a derecha; los hijos de cada nodo están debajo de él)\nNivel 0 (raíz): {{0}}\nNivel 1: {{1}} {{2}}\nNivel 2: {{3}} {{4}} {{5}} {{6}}\nNivel 3: {{7}} {{8}} {{9}} {{10}}\nNivel 4: {{11}} {{12}} {{13}} {{14}}",
+  "banco": [
+   "1",
+   "2",
+   "3",
+   "5",
+   "x",
+   "+",
+   "-",
+   "*",
+   "/"
+  ],
+  "respuestas": [
+   "+",
+   "-",
+   "-",
+   "*",
+   "*",
+   "5",
+   "x",
+   "/",
+   "x",
+   "/",
+   "x",
+   "2",
+   "3",
+   "1",
+   "2"
+  ],
+  "reuse": true,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "La última operación es la suma ⇒ raíz +. Izquierda: (2/3·x − 1/2·x) ⇒ − con dos productos (2/3)·x y (1/2)·x. Derecha: 5 − x. Cada fracción es un / con numerador y denominador.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [
+   "m_arbol_bin.png"
+  ],
+  "id": "q29ae1d56",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U6",
+  "tipo": "completar",
+  "enunciado": "Dado el siguiente árbol A=(N,S), determine:\n- A es un árbol m-ario ¿Cuál es el valor de m? {{0}}\n- Indique la altura de A: {{1}}\n- Cantidad de hijos del nodo \"x\": {{2}}\n- Es posible identificar un subárbol con 5 nodos y altura 2. Cuál sería el nodo raíz del mismo? {{3}}\n- Detallar el Recorrido en anchura: {{4}} {{5}} {{6}} {{7}} {{8}} {{9}} {{10}} {{11}} {{12}} {{13}} {{14}} {{15}} {{16}} {{17}} {{18}} {{19}}",
+  "banco": [
+   "a",
+   "b",
+   "!",
+   "d",
+   "#",
+   "x",
+   "c",
+   "2",
+   "4",
+   "1",
+   "5",
+   "3"
+  ],
+  "respuestas": [
+   "4",
+   "4",
+   "2",
+   "!",
+   "x",
+   "!",
+   "#",
+   "#",
+   "!",
+   "b",
+   "c",
+   "d",
+   "a",
+   "b",
+   "c",
+   "d",
+   "#",
+   "d",
+   "a",
+   "c"
+  ],
+  "reuse": true,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "apunte",
+  "explicacion": "El # del nivel 2 tiene 4 hijos (a, b, c, d) ⇒ m = 4 (Moodle marcó mal el 2). El ! del nivel 2 con # y d, y ese # con a y c, forman el subárbol de 5 nodos y altura 2. Anchura: nivel por nivel de izquierda a derecha.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [
+   "m_arbol_x.png"
+  ],
+  "id": "q5145a596",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U6",
+  "tipo": "completar",
+  "enunciado": "Dado el siguiente árbol ordenado con raíz A = (N, S), determine:\nRecorrido en profundidad: {{0}} {{1}} {{2}} {{3}} {{4}} {{5}} {{6}} {{7}} {{8}} {{9}} {{10}} {{11}}",
+  "banco": [
+   "t",
+   "o",
+   "v",
+   "q",
+   "r",
+   "n",
+   "w",
+   "m",
+   "p",
+   "a",
+   "u",
+   "s"
+  ],
+  "respuestas": [
+   "a",
+   "m",
+   "o",
+   "r",
+   "s",
+   "t",
+   "p",
+   "n",
+   "q",
+   "u",
+   "w",
+   "v"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "apunte",
+  "explicacion": "Preorden: a, todo el subárbol de m (m o r s t p) y después el de n (n q u w v). Cada letra se usa una sola vez.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [
+   "m_arbol_amn.png"
+  ],
+  "id": "q8b46b67e",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U7",
+  "tipo": "una",
+  "enunciado": "Se puede definir una expresión booleana por recursión. Esta afirmación es:",
+  "opciones": [
+   "Verdadero",
+   "Falso"
+  ],
+  "correctas": [
+   0
+  ],
+  "fuente": "oficial",
+  "explicacion": "Caso base: 0, 1 y las variables son expresiones. Caso recursivo: si E y F lo son, también E+F, E·F y E′.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "qce6d649b",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "varias",
+  "enunciado": "¿Cuáles de las siguientes expresiones pueden considerarse como Formas Normales de una función booleana?",
+  "opciones": [
+   "Minterm",
+   "Producto de maxterms",
+   "Suma de maxterms",
+   "Producto de minterms",
+   "Maxterm",
+   "Suma de minterms"
+  ],
+  "correctas": [
+   1,
+   5
+  ],
+  "fuente": "oficial",
+  "explicacion": "FND = suma de minterms. FNC = producto de maxterms. Un minterm o maxterm solo es un término.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "qa6758732",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "una",
+  "enunciado": "El cero en el álgebra de Boole es equivalente en el álgebra de Proposiciones a:",
+  "opciones": [
+   "Contradicción",
+   "Complemento",
+   "Unión",
+   "Tautología",
+   "Conjunción",
+   "Negación"
+  ],
+  "correctas": [
+   0
+  ],
+  "fuente": "oficial",
+  "explicacion": "0 ↔ F (contradicción) ↔ ∅. 1 ↔ V (tautología) ↔ U.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "qf0b8e9b2",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "varias",
+  "enunciado": "¿Cuáles de los siguientes ítems son necesarios para definir un Álgebra Booleana?",
+  "opciones": [
+   "Todo elemento del conjunto de definición debe tener inverso respecto de la operación suma",
+   "Una operación unaria denominada complemento",
+   "Dos operaciones binarias denominadas suma y producto que tengan elemento neutro",
+   "Dos elementos denominados 0 y 1",
+   "Una operación ternaria distributiva en la suma y el producto"
+  ],
+  "correctas": [
+   1,
+   2,
+   3
+  ],
+  "fuente": "oficial",
+  "explicacion": "(B, 0, 1, +, ·, ′): dos elementos, dos operaciones binarias con neutro y el complemento. No hay inversos aditivos.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "q56b8d1a6",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "una",
+  "enunciado": "Dada la Forma Normal Conjuntiva siguiente de una función booleana: {{img:m_fnc_q6.png}}\nIndicar cuál es la Forma Normal Disyuntiva equivalente de la función:",
+  "opciones": [
+   "img:m_fnd6_1.png",
+   "img:m_fnd6_2.png",
+   "Ninguna de las expresiones es correcta",
+   "img:m_fnd6_4.png",
+   "img:m_fnd6_5.png"
+  ],
+  "correctas": [
+   4
+  ],
+  "fuente": "oficial",
+  "explicacion": "Los 3 maxterms marcan los ceros: 101, 001 y 110. La FND suma los minterms de las otras 5 filas: 000, 010, 011, 100 y 111.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "q46ebd693",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "una",
+  "enunciado": "Dada la siguiente función booleana seleccionar la tabla correspondiente: {{img:m_f_q7.png}}",
+  "opciones": [
+   "img:m_tv7_a.png",
+   "img:m_tv7_b.png",
+   "img:m_tv7_c.png",
+   "img:m_tv7_d.png",
+   "img:m_tv7_e.png"
+  ],
+  "correctas": [
+   2
+  ],
+  "fuente": "oficial",
+  "explicacion": "Cada minterm es una fila con f = 1: a′b′c′ = 000, ab′c = 101, abc′ = 110, abc = 111. Todo lo demás es 0.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "q64e0563a",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "completar",
+  "enunciado": "Dada la siguiente función booleana, f(a,b,c) = a*~b encontrar la expresión de FND (Forma Normal Disyuntiva) o Sumas de productos, aplicando el método algebraico.\n(el símbolo “~” representa el complemento de la variable y \" * \" el producto booleano)\nf(a,b,c) = a * ~b\nf(a,b,c) = a * ~b {{0}}\nf(a,b,c) = a * ~b {{1}}\nf(a,b,c) = {{2}} {{3}} {{4}}",
+  "banco": [
+   "* 1",
+   "+ 0",
+   "* (c + ~c)",
+   "+ (c * ~c)",
+   "a * ~b * c",
+   "a * ~b * ~c",
+   "a * ~b + ~c",
+   "+",
+   "*"
+  ],
+  "respuestas": [
+   "* 1",
+   "* (c + ~c)",
+   "a * ~b * c",
+   "+",
+   "a * ~b * ~c"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "Para la FND falta c en el producto: se multiplica por 1, se reemplaza 1 = c + ~c y se distribuye: a·~b·c + a·~b·~c. Ojo con \"a * ~b + ~c\": no es lo mismo.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "q237f65a3",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "una",
+  "enunciado": "Dada la siguiente tabla de verdad: {{img:m_tabla_q10.png}}\nSeleccionar la Forma Normal Conjuntiva o el Producto de Sumas Canónicos, correcta:",
+  "opciones": [
+   "img:m_fnc10_1.png",
+   "img:m_fnc10_2.png",
+   "img:m_fnc10_3.png",
+   "Ninguna de las expresiones es correcta",
+   "img:m_fnc10_5.png"
+  ],
+  "correctas": [
+   3
+  ],
+  "fuente": "oficial",
+  "explicacion": "Los ceros están en 000, 011 y 110 ⇒ FNC = (a+b+c)·(a+~b+~c)·(~a+~b+c). Ninguna opción coincide.",
+  "origen": [
+   "Cuestionario U7 · Estructuras Algebraicas (Mate)"
+  ],
+  "img": [],
+  "id": "q3876b16e",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U7",
+  "tipo": "varias",
+  "enunciado": "Dado el siguiente circuito combinatorio, identificar la o las expresiones correspondientes a la función booleana representada en el mismo.",
+  "opciones": [
+   "img:m_c1_a.png",
+   "img:m_c1_b.png",
+   "img:m_c1_c.png",
+   "img:m_c1_d.png",
+   "img:m_c1_e.png",
+   "img:m_c1_f.png"
+  ],
+  "correctas": [
+   3,
+   4
+  ],
+  "fuente": "apunte",
+  "explicacion": "Arriba: NAND de ~a y ~c, por ~b y por a ⇒ ~(~a·~c)·~b·a. Abajo: a·b·c. Se suman con el OR. La d es la misma expresión con los factores en otro orden. Moodle dio 0,50 al marcar solo la e.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [
+   "m_circuito1.png"
+  ],
+  "id": "q1796f29e",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U7",
+  "tipo": "una",
+  "enunciado": "Dado el siguiente circuito combinatorio, identificar la expresión de la función booleana correspondiente:",
+  "opciones": [
+   "img:m_c7_a.png",
+   "img:m_c7_b.png",
+   "img:m_c7_c.png",
+   "img:m_c7_d.png",
+   "img:m_c7_e.png"
+  ],
+  "correctas": [
+   3
+  ],
+  "fuente": "oficial",
+  "explicacion": "Hay 3 entradas (a, b, c), así que descartá las de f(a,b) y f(a,b,c,d). Después seguí cada compuerta hasta la salida.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [
+   "m_circuito7.png"
+  ],
+  "id": "q7daa3a50",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U7",
+  "tipo": "completar",
+  "enunciado": "Dada la siguiente función booleana, f(A,B) = A' . B + A encontrar la expresión de FND (Forma Normal Disyuntiva) o Suma de productos, aplicando el método algebraico.\nf(A,B) =A' . B + A\nf(A,B) =A' . B + A {{0}} {{1}}\nf(A,B) =A' . B + A . ( {{2}} {{3}} {{4}} )\nf(A,B) =A' . B + ( {{5}} . {{6}} ) {{7}} ( {{8}} . {{9}} )",
+  "banco": [
+   ".",
+   "1",
+   "0",
+   "+",
+   "B",
+   "A'",
+   "B'",
+   "A"
+  ],
+  "respuestas": [
+   ".",
+   "1",
+   "B",
+   "+",
+   "B'",
+   "A",
+   "B",
+   "+",
+   "A",
+   "B'"
+  ],
+  "reuse": true,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "A·1, después 1 = B + B′ (¡suma!, no producto) y se distribuye: A·B + A·B′.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [],
+  "id": "qc01915aa",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U7",
+  "tipo": "completar",
+  "enunciado": "Dada la siguiente ecuación booleana, donde A' representa el complemento de A y B' el complemento de B:\nA' . ( A + B ) + ( A . B' ) = 0\nArrastre los elementos para construir el dual de la misma.\n{{0}} {{1}} ( {{2}} {{3}} {{4}} ) {{5}} ( {{6}} {{7}} {{8}} ) = {{9}}",
+  "banco": [
+   "A'",
+   "+",
+   "A",
+   ".",
+   "B",
+   "B'",
+   "1",
+   "0"
+  ],
+  "respuestas": [
+   "A'",
+   "+",
+   "A",
+   ".",
+   "B",
+   ".",
+   "A",
+   "+",
+   "B'",
+   "1"
+  ],
+  "reuse": true,
+  "tabla": null,
+  "inputs": false,
+  "fuente": "oficial",
+  "explicacion": "Dual: se cambia + por ·, · por + y 0 por 1. Las variables (y sus complementos) NO se tocan: A′ + (A·B) · (A + B′) = 1.",
+  "origen": [
+   "Recuperatorio 2º parcial práctico · 2021"
+  ],
+  "img": [],
+  "id": "qe13d84d5",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": false
+ },
+ {
+  "unidad": "U4",
+  "tipo": "completar",
+  "enunciado": "Un carro de montaña rusa tiene 30 asientos y 27 de ellos están ocupados. Llega un grupo de 12 personas para ocupar los asientos vacíos. ¿De cuántas maneras diferentes pueden sentarse esas personas?\nRespuesta: {{0}}",
+  "banco": null,
+  "respuestas": [
+   "1320"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": true,
+  "fuente": "oficial",
+  "explicacion": "Quedan 3 asientos y hay 12 personas: importa quién va en cada asiento ⇒ V(12,3) = 12 · 11 · 10 = 1320.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "qc4b8f391",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "una",
+  "enunciado": "En una organización quedan vacantes cinco puestos jerárquicos. Se postula para ello a 7 siete aspirantes, pero con la salvedad que solo 3 de ellos pueden ocupar el puesto jerárquico número 1 (pudiendo también ocupar los demás puestos si no toman el primero). ¿Cuántas formas diferentes de ocupación de los puestos podría existir?",
+  "opciones": [
+   "360",
+   "70",
+   "1080",
+   "210",
+   "40"
+  ],
+  "correctas": [
+   2
+  ],
+  "fuente": "oficial",
+  "explicacion": "Puesto 1: 3 opciones. Los otros 4 puestos con los 6 que quedan, importando el orden: 6·5·4·3 = 360. Total 3 · 360 = 1080.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "qe19ce827",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "una",
+  "enunciado": "Una compañía de teatro tiene un grupo de actores para interpretar una obra de teatro. El director quiere saber de cuántas maneras diferentes se pueden ordenar los actores en una fila para el saludo final al público.\nEste problema se puede resolver con:",
+  "opciones": [
+   "Combinación simple",
+   "Combinación con repetición",
+   "Permutación con reposición",
+   "Regla de la Adición",
+   "Permutación con repetición",
+   "Permutación simple"
+  ],
+  "correctas": [
+   5
+  ],
+  "fuente": "oficial",
+  "explicacion": "Se ordenan TODOS los actores, sin repetir: permutación simple, n!.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "qe4b30c00",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "completar",
+  "enunciado": "Una clave se compone de 3 letras (tomadas del alfabeto tradicional de 26 letras) y 2 dígitos decimales. Las letras no pueden repetirse en la clave, pero los dígitos si. ¿Cuál es la cantidad total de claves que pueden obtenerse?\nRespuesta: {{0}}",
+  "banco": null,
+  "respuestas": [
+   "1560000"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": true,
+  "fuente": "oficial",
+  "explicacion": "Letras sin repetir: 26·25·24 = 15600. Dígitos con repetición: 10·10 = 100. Total 15600 · 100 = 1.560.000.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "q6481cd97",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "varias",
+  "enunciado": "¿Cuál o cuáles de estas fórmulas son correctas para el Principio de inclusión y exclusión para dos conjuntos A y B, no vacíos y disjuntos?",
+  "opciones": [
+   "|A ∪ B| = |A| + |B| - |A ∩ B|",
+   "|A ∩ B| = |A| - |A ∪ B|",
+   "|A ∩ B| = |A| + |B|",
+   "|A ∩ B| = |A| + |B| - |A ∩ B|",
+   "|A ∪ B| = |A| - |B|",
+   "|A ∪ B| = |A| + |B|"
+  ],
+  "correctas": [
+   0,
+   5
+  ],
+  "fuente": "oficial",
+  "explicacion": "La general vale siempre. Si son disjuntos, |A ∩ B| = 0 y queda |A ∪ B| = |A| + |B|.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "qdb3c21ef",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "completar",
+  "enunciado": "En un grupo de 300 estudiantes, se hizo una encuesta respecto de tres asignaturas: Matemática, Lengua e Historia en relación a su aprobación el último año cursado. Los resultados fueron:\n80 estudiantes no aprobaron Matemática\n50 estudiantes no aprobaron Lengua\n40 estudiantes no aprobaron Historia\nA su vez se conoce que 20 estudiantes no aprobaron Matemática y Lengua, 10 estudiantes no aprobaron Matemática e Historia y 5 estudiantes no aprobaron Lengua e Historia y solo 2 no aprobaron la tres materias.\nSe pide calcular cuántos estudiantes solo reprobaron Matemática.\nRespuesta: {{0}}",
+  "banco": null,
+  "respuestas": [
+   "52"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": true,
+  "fuente": "oficial",
+  "explicacion": "Solo M = |M| − |M∩L| − |M∩H| + |M∩L∩H| = 80 − 20 − 10 + 2 = 52.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "q37e618ba",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "una",
+  "enunciado": "¿Cuál es la fórmula general del Principio de inclusión y exclusión para tres conjuntos A, B y C?",
+  "opciones": [
+   "|A ∪ B ∪ C| = |A| - |B| + |C|",
+   "|A ∪ B ∪ C| = |A| + |B| - |A ∩ B| - |A ∩ C| + |A ∩ B ∩ C|",
+   "|A ∪ B ∪ C| = |A| + |B| + |C| + |A ∩ B| + |A ∩ C| + |B ∩ C| - |A ∩ B ∩ C|",
+   "|A ∪ B ∪ C| = |A| + |B| + |C|",
+   "|A ∪ B ∪ C| = |A| + |B| + |C| - |A ∩ B| - |A ∩ C| - |B ∩ C| + |A ∩ B ∩ C|"
+  ],
+  "correctas": [
+   4
+  ],
+  "fuente": "oficial",
+  "explicacion": "Sumás los 3, restás las 3 intersecciones de a dos y volvés a sumar la triple.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "q4538504c",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "una",
+  "enunciado": "El Principio de inclusión y exclusión es un teorema que se utiliza para:",
+  "opciones": [
+   "contar los elementos de una intersección de conjuntos.",
+   "contar los elementos de la unión de conjuntos, pero solo si son disjuntos.",
+   "contar los elementos de la unión entre el conjunto vacío y el universo de discurso.",
+   "contar los elementos de una unión de conjuntos."
+  ],
+  "correctas": [
+   3
+  ],
+  "fuente": "oficial",
+  "explicacion": "Cuenta |A ∪ B ∪ …| aunque los conjuntos se solapen (por eso resta las intersecciones).",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "qc08ed692",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "completar",
+  "enunciado": "Una compañía de teatro tiene un grupo de actores para interpretar una obra de teatro. El director quiere saber de cuántas maneras diferentes se pueden ordenar los 7 actores en una fila para el saludo final al público.\nLos actores se pueden ordenar de {{0}} formas diferentes.",
+  "banco": null,
+  "respuestas": [
+   "5040"
+  ],
+  "reuse": false,
+  "tabla": null,
+  "inputs": true,
+  "fuente": "oficial",
+  "explicacion": "Permutación simple: 7! = 5040.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "qcd5dd5c0",
+  "mate": true,
+  "veces": 1,
+  "p02": false,
+  "cuest": true
+ },
+ {
+  "unidad": "U4",
+  "tipo": "una",
+  "enunciado": "Calcular la cantidad de números de 3 cifras que comienzan con 7 en un sistema octal (o sea solo usan los dígitos del 0 al 7 para armar los números).",
+  "opciones": [
+   "343",
+   "64",
+   "7",
+   "35",
+   "14"
+  ],
+  "correctas": [
+   1
+  ],
+  "fuente": "oficial",
+  "explicacion": "La primera cifra es 7 (fija); las otras dos tienen 8 opciones cada una: 8 · 8 = 64.",
+  "origen": [
+   "Cuestionario U4 · Conteo (Mate)"
+  ],
+  "img": [],
+  "id": "q895e29e1",
+  "mate": true,
   "veces": 1,
   "p02": false,
   "cuest": true
